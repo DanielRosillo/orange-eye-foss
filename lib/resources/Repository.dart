@@ -29,9 +29,9 @@ class Repository {
   static const String _rosillolabs_web = "https://rosillolabs.com/";
   static const String _publisher = "Rosillo Labs";
   static const String _release = "23/02/2022";
-  static const String _update = "13/03/2022";
-  static const String _version = "1.1";
-  static const bool _onDebug = true;
+  static const String _update = "21/08/2023";
+  static const String _version = "1.0.3";
+  static const bool _onDebug = false;
   static const String _variant = "GLOBAL-ALLVARIANTS";
   static const String _reference = "CUSTOM-STORE";
   static const int _codeVersion = 3;

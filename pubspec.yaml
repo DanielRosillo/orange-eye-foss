@@ -1,7 +1,7 @@
 name: orange_eye_foss2
 description: OrangeEye is a web monitor and API REST client for Android(23) 6+ made in pure Flutter.
 
-version: 1.1.0+3
+version: 1.0.0+3
 
 environment:
   sdk: '>=2.18.6 <3.0.0'
@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  background_fetch: ^1.0.3
+  background_fetch: ^1.1.5
   easy_dynamic_theme: ^2.2.0
   flutter_localizations:
     sdk: flutter
@@ -37,7 +37,7 @@ dev_dependencies:
   disable_battery_optimization: ^1.1.0+1
   list_tile_switch: ^1.0.0
   file_picker: ^5.2.9
-  permission_handler: ^10.2.0
+  permission_handler: ^10.4.3
   auto_start_flutter: ^0.1.0
   external_path: ^1.0.3
   device_info_plus: ^4.1.2

@@ -6,9 +6,9 @@ OrangeEye is a web monitor and API REST client for Android(23) 6+ made in pure F
 # Main Features
 
 * Automatic request to website or ip-server (GET,POST,PUT,DELETE,HEAD,PATCH). 
-* Working in background. 
+* Working in background (Android AlarmManager). 
 * Import/Export app data. 
-* Notifications. 
+* Notifications every one minute or custom. 
 * Notes for request.
 
 # Development Environment

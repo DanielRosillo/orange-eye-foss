@@ -1,6 +1,6 @@
 ![](https://github.com/DanielRosillo/orange-eye-foss/blob/main/4160491_celebration_chinese_dance_eat_lion_icon.png)
 
-# Orange Eye Foss
+# OrangeEye Foss
 OrangeEye is a web monitor and API REST client for Android(23) 6+ made in pure Flutter.
 
 # Main Features

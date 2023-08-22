@@ -17,7 +17,7 @@ OrangeEye is a web monitor and API REST client for Android(23) 6+ made in pure F
 - AndroidStudio 2022.3
 - Flutter plugin 75.1.2
 - Android 13/12
-- 
+
 # Privacy Policy
 This application doesn't collect, store or transmit your identity or personal information in any way. It contains no advertising and no trackers.
 
@@ -28,6 +28,6 @@ Copyright © 2023 Daniel Rosillo. All rights reserved.
 > OrangeEye is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 # Contact 
-Email: danielrosillodev@gmail.com
-Telegram: VHS_DREAMS25
-www.rosillolabs.com
+* Email: danielrosillodev@gmail.com
+* Telegram: VHS_DREAMS25
+* www.rosillolabs.com

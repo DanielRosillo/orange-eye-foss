@@ -11,6 +11,9 @@ OrangeEye is a web monitor and API REST client for Android(23) 6+ made in pure F
 * Notifications every minute or custom. 
 * Notes for request.
 
+# Requirments
+* Android 6(API 23) or high.
+
 # Development Environment
 - Debian 12
 - Flutter 3.3.10

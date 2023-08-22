@@ -1,0 +1,75 @@
+exit_menu:
+  yes: YES
+  no: NO
+  body: Click on YES to exit from
+  title: Exit application?
+drawer_menu:
+  export: EXPORTAR
+  import: IMPORTAR
+  rate: CALIFICAR APP
+  share: COMPARTIR
+  updates: ACTUALIZACIONES
+  privacy: POLÍTICA DE PRIVACIDAD
+add_request:
+  name: Nombre
+  hint: Si no se usa un nombre se usara el host
+  error: El host no puede estar vacío.
+  host: Host
+  host_hint: https://api.myproduct.com/v1/users
+  notes: Notas
+  notes_hint: Comentarios sobre esto...
+  body: Body
+  body_hint: Escribe el body.
+  type: Tipo
+  active: Peticiones Automaticas
+  active_hint: Notificaciones recurrentes
+  header_key: Header Key
+  header_key_hint: New Header
+  header_value: Header Value
+  header_value_hint: New Value
+  save: GUARDAR
+  cancel: CANCELAR
+  title: Push Request
+  error_title:
+  error_body:
+host_dialog:
+  title: Cambiar Host
+out_dialog:
+  close: CLOSE
+request_view:
+  request: REQUEST
+  reminder: PAUSAR
+  reminder2: ACTIVAR
+  info: INFORMACIÓN
+  delete: BORRAR
+  delete_title: ¿Borrar Request permanentemente?
+  delete_body: Esta accion es irreversible.
+settings:
+  notifications: Solo Errores
+  notifications_descripcion: Notificar solo errores cliente-servidor (error codes 5xx or 4xx)
+  delay: Intervalo en minutos
+  delay_description: Intervalo entre notificaciones
+  title: Configuración
+  notifications_menu_title: Notificaciones
+  notifications_menu_body: Configuración de notificaciones
+  autostart: AUTOSTART
+  battery: BATTERY SAVER
+import:
+  continue: SIGUIENTE
+  cancel: CANCELAR
+  title: Importar Requests
+export:
+  title: Exportar Requests
+  body: Se exporto exitosamente a la carpeta de Descargas.
+about:
+  support: SOPORTE
+  privacy: POLÍTICA DE PRIVACIDAD
+  licenses: LICENCIAS
+notification:
+  title: PROBAR NOTIFICACIONES
+  body: ¡Todo listo para empezar!
+share:
+  title: Prueba esta increible app
+  content: es una increible app para hacer peticiones HTTP!!!
+home:
+  no_Request: ...Sin peticiones agregadas...

@@ -1,0 +1,78 @@
+exit_menu:
+  yes: YES
+  no: NO
+  body: Click on YES to exit from
+  title: Exit application?
+drawer_menu:
+  export: EXPORT
+  import: IMPORT
+  rate: RATE IT
+  share: SHARE IT
+  updates: UPDATES
+  privacy: PRIVACY POLICY
+add_request:
+  name: Request's Name
+  hint: If empty then takes the host url.
+  error: The host can't be empty.
+  host: Host
+  host_hint: https://api.myproduct.com/v1/users
+  notes: Notes
+  notes_hint: Type tips about it.
+  body: Body (TEXT FORMAT)
+  body_hint: Type a body for request.
+  type: Type
+  active: Automatic Reminder
+  active_hint: Keeping monitor
+  header_key: Header Key
+  header_key_hint: New Header
+  header_value: Header Value
+  header_value_hint: New Value
+  save: SAVE
+  cancel: CANCEL
+  title: Push Request
+  error_title:
+  error_body:
+host_dialog:
+  title: Change Host
+out_dialog:
+  close: CERRAR
+request_view:
+  request: SEND NOW
+  reminder: PAUSE
+  reminder2: START
+  info: INFORMATION
+  delete: DELETE
+  delete_title: Delete request permanently
+  delete_body: Deleting it will be permanently and cannot be recovered
+settings:
+  notifications: Only Issues
+  notifications_descripcion: Notify only server-client side issues (error codes 5xx or 4xx)
+  delay: Interval in minutes
+  delay_description: Monitoring interval in minutes
+  title: Settings
+  notifications_menu_title: Notifications
+  notifications_menu_body: Set up notifications details
+  autostart: AUTOSTART
+  battery: BATTERY SAVER
+import:
+  continue: NEXT
+  cancel: CANCEL
+  title: Import Requests
+export:
+  title: Export Requests
+  body: Exported successfully to downloads folder.
+about:
+  support: SUPPORT
+  privacy: PRIVACY POLICY
+  licenses: LICENSES
+notification:
+  title: Test Notification
+  body: You're ready to get started!.
+share:
+  title: Try it!
+  content: is powerful app to perform HTTP requests!
+home:
+  no_request: ...No requests added yet...
+core:
+  paste: The result was copied to clipboard.
+  no_network: No network connection available
